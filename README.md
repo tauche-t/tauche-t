@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Build%20a%20Junmo&fontSize=90)
 
 <div align=center>
-  [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]
+  ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tauche-t)](https://github.com/anuraghazra/github-readme-stats)
